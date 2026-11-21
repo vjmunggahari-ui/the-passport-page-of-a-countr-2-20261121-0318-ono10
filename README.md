@@ -1,8 +1,8 @@
 # The Passport Page of a Country That Isn't There
 
 [![Bounty](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318.svg)](https://make.fun/competitions/the-passport-page-of-a-countr-2-20261121-0318)
-[![Rank](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/Indramunggahari10/the-passport-page-of-a-countr-2-20261121-0318-ono10/rank.svg)](https://make.fun/competitions/the-passport-page-of-a-countr-2-20261121-0318)
-[![Reward](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/Indramunggahari10/the-passport-page-of-a-countr-2-20261121-0318-ono10/reward.svg)](https://make.fun/competitions/the-passport-page-of-a-countr-2-20261121-0318)
+[![Rank](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/vjmunggahari-ui/the-passport-page-of-a-countr-2-20261121-0318-ono10/rank.svg)](https://make.fun/competitions/the-passport-page-of-a-countr-2-20261121-0318)
+[![Reward](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/vjmunggahari-ui/the-passport-page-of-a-countr-2-20261121-0318-ono10/reward.svg)](https://make.fun/competitions/the-passport-page-of-a-countr-2-20261121-0318)
 
 ![The passport spread of the Republic of Tavara](entry.png)
 
